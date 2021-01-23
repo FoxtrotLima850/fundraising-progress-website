@@ -2,7 +2,7 @@
 A website for displaying the progress along a route and a justgiving donation link.
 
 
-# Things you need to use this
+# Things you need to use this code to make your fundraising website
 This website will not work out of the box. You will need to set up the following:
 - MySQL Database (see below)
 - mapbox access token
